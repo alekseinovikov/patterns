@@ -1,0 +1,4 @@
+rootProject.name = 'patterns'
+
+include 'patterns-kotlin'
+include 'patterns-java'
