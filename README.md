@@ -5,7 +5,7 @@
 | Factory                 |   +  |    +   |        |      |            |
 | Builder                 |   +  |    +   |        |      |            |
 | Factory Method          |      |        |        |      |            |
-| Prototype               |      |        |        |      |            |
+| Prototype               |   +  |    +   |        |      |            |
 | Singleton               |      |        |        |      |            |
 | Bridge                  |      |        |        |      |            |
 | Adapter                 |      |        |        |      |            |
