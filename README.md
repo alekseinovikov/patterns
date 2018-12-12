@@ -3,7 +3,7 @@
 |                         | Java | Kotlin | Python | Ruby | TypeScript |
 |-------------------------|------|--------|--------|------|------------|
 | Factory                 |   +  |    +   |        |      |            |
-| Builder                 |      |        |        |      |            |
+| Builder                 |   +  |    +   |        |      |            |
 | Factory Method          |      |        |        |      |            |
 | Prototype               |      |        |        |      |            |
 | Singleton               |      |        |        |      |            |
