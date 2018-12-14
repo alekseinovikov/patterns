@@ -4,10 +4,10 @@
 |-------------------------|------|--------|--------|------|------------|
 | Factory                 |   +  |    +   |        |      |            |
 | Builder                 |   +  |    +   |        |      |            |
-| Factory Method          |      |        |        |      |            |
+| Factory Method          |   +  |    +   |        |      |            |
 | Prototype               |   +  |    +   |        |      |            |
 | Singleton               |   +  |    +   |        |      |            |
-| Bridge                  |      |        |        |      |            |
+| Bridge                  |   +  |    +   |        |      |            |
 | Adapter                 |      |        |        |      |            |
 | Composite               |      |        |        |      |            |
 | Decorator               |      |        |        |      |            |
