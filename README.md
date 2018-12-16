@@ -8,7 +8,7 @@
 | Prototype               |   +  |    +   |        |      |            |
 | Singleton               |   +  |    +   |        |      |            |
 | Bridge                  |   +  |    +   |        |      |            |
-| Adapter                 |      |        |        |      |            |
+| Adapter                 |   +  |    +   |        |      |            |
 | Composite               |      |        |        |      |            |
 | Decorator               |      |        |        |      |            |
 | Facade                  |      |        |        |      |            |
