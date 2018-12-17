@@ -9,7 +9,7 @@
 | Singleton               |   +  |    +   |        |      |            |
 | Bridge                  |   +  |    +   |        |      |            |
 | Adapter                 |   +  |    +   |        |      |            |
-| Composite               |      |        |        |      |            |
+| Composite               |   +  |    +   |        |      |            |
 | Decorator               |      |        |        |      |            |
 | Facade                  |      |        |        |      |            |
 | Flyweight               |      |        |        |      |            |
