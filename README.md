@@ -10,7 +10,7 @@
 | Bridge                  |   +  |    +   |        |      |            |
 | Adapter                 |   +  |    +   |        |      |            |
 | Composite               |   +  |    +   |        |      |            |
-| Decorator               |      |        |        |      |            |
+| Decorator               |   +  |        |        |      |            |
 | Facade                  |      |        |        |      |            |
 | Flyweight               |      |        |        |      |            |
 | Proxy                   |      |        |        |      |            |
