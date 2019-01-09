@@ -11,7 +11,7 @@
 | Adapter                 |   +  |    +   |        |      |            |
 | Composite               |   +  |    +   |        |      |            |
 | Decorator               |   +  |        |        |      |            |
-| Facade                  |      |        |        |      |            |
+| Facade                  |   +  |        |        |      |            |
 | Flyweight               |      |        |        |      |            |
 | Proxy                   |      |        |        |      |            |
 | Chain Of Responsibility |      |        |        |      |            |
