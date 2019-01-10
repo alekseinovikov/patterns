@@ -12,7 +12,7 @@
 | Composite               |   +  |    +   |        |      |            |
 | Decorator               |   +  |        |        |      |            |
 | Facade                  |   +  |        |        |      |            |
-| Flyweight               |      |        |        |      |            |
+| Flyweight               |   +  |        |        |      |            |
 | Proxy                   |      |        |        |      |            |
 | Chain Of Responsibility |      |        |        |      |            |
 | Command                 |      |        |        |      |            |
