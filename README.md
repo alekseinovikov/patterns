@@ -15,7 +15,7 @@
 | Flyweight               |   +  |        |        |      |            |
 | Proxy                   |   +  |        |        |      |            |
 | Chain Of Responsibility |   +  |        |        |      |            |
-| Command                 |      |        |        |      |            |
+| Command                 |   +  |        |        |      |            |
 | Interpreter             |      |        |        |      |            |
 | Mediator                |      |        |        |      |            |
 | Observer                |      |        |        |      |            |

@@ -16,7 +16,7 @@ public class ProcessorManager {
         processorRoot.setNextProcessor(normalProcessor);
     }
 
-    public void process(ProcessorTypes type) {
+    public void process(ProcessorTypes type) throws Exception {
         processorRoot.process(type);
     }
 

@@ -1,7 +1,5 @@
 package me.freedom4live.patterns.java.chain;
 
-import sun.plugin.dom.exception.InvalidStateException;
-
 public abstract class BaseProcessor implements Processor {
 
     private final ProcessorTypes processorType;
@@ -12,7 +10,7 @@ public abstract class BaseProcessor implements Processor {
     }
 
     @Override
-    public void process(ProcessorTypes type) {
+    public void process(ProcessorTypes type) throws Exception {
         if (type == processorType) {
             processInternal();
             return;
@@ -23,7 +21,7 @@ public abstract class BaseProcessor implements Processor {
             return;
         }
 
-        throw new InvalidStateException("Can't find a processor!");
+        throw new Exception("Can't find a processor!");
     }
 
     @Override
