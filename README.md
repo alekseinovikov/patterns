@@ -14,7 +14,7 @@
 | Facade                  |   +  |        |        |      |            |
 | Flyweight               |   +  |        |        |      |            |
 | Proxy                   |   +  |        |        |      |            |
-| Chain Of Responsibility |      |        |        |      |            |
+| Chain Of Responsibility |   +  |        |        |      |            |
 | Command                 |      |        |        |      |            |
 | Interpreter             |      |        |        |      |            |
 | Mediator                |      |        |        |      |            |
