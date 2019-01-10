@@ -13,7 +13,7 @@
 | Decorator               |   +  |        |        |      |            |
 | Facade                  |   +  |        |        |      |            |
 | Flyweight               |   +  |        |        |      |            |
-| Proxy                   |      |        |        |      |            |
+| Proxy                   |   +  |        |        |      |            |
 | Chain Of Responsibility |      |        |        |      |            |
 | Command                 |      |        |        |      |            |
 | Interpreter             |      |        |        |      |            |
