@@ -16,7 +16,7 @@
 | Proxy                   |   +  |        |        |      |            |
 | Chain Of Responsibility |   +  |        |        |      |            |
 | Command                 |   +  |        |        |      |            |
-| Interpreter             |      |        |        |      |            |
+| Interpreter             |   +  |        |        |      |            |
 | Mediator                |      |        |        |      |            |
 | Observer                |      |        |        |      |            |
 | State                   |      |        |        |      |            |
