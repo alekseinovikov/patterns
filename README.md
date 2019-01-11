@@ -17,7 +17,7 @@
 | Chain Of Responsibility |   +  |        |        |      |            |
 | Command                 |   +  |        |        |      |            |
 | Interpreter             |   +  |        |        |      |            |
-| Mediator                |      |        |        |      |            |
+| Mediator                |   +  |        |        |      |            |
 | Observer                |      |        |        |      |            |
 | State                   |      |        |        |      |            |
 | Memento                 |      |        |        |      |            |
